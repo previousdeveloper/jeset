@@ -1,5 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
+
 # Logs
 logs
 *.log
@@ -29,3 +30,8 @@ build/Release
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
